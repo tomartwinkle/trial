@@ -58,6 +58,8 @@
     color: #e74c3c;
     visibility: hidden;
   }
+button{
+    border-radius:10px;
   
   button:focus {
     outline: none;
