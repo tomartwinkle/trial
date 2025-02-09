@@ -20,13 +20,13 @@
   }
   
   h1 {
-    color: #e74c3c;
+    color: red;
     font-size: 3rem;
     margin-bottom: 20px;
   }
   
   .buttons button {
-    background-color: #e74c3c;
+    background-color: red;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -37,7 +37,7 @@
   }
   
   .buttons button:hover {
-    background-color: #c0392b;
+    background-color:red;
   }
   
   #heartsContainer {
@@ -55,11 +55,9 @@
     width: 100%;
     text-align: center;
     font-size: 2rem;
-    color: #e74c3c;
+    color: red;
     visibility: hidden;
   }
-button{
-    border-radius:10px;
   
   button:focus {
     outline: none;
